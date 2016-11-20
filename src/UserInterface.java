@@ -1,9 +1,9 @@
 /**
  * Description: Calendar application which allows the user
- * 		to select a date and retrieve previously stored calendar entry
- * 		 and also to save a new calendar entry.
+ * to select a date and retrieve previously stored calendar entry
+ * and also to save a new calendar entry.
  * 
-
+ * author: Priyanka Narasimha Murthy
  */
 import java.awt.*;
 import java.awt.event.ActionEvent;
